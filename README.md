@@ -1,4 +1,4 @@
-Frontend for 2FA Example using react tsx (TYPESCRIPT)
+Frontend for 2FA Google Authentication Example using react tsx (TYPESCRIPT)
 
 OPEN CMD IN PROJECT FOLDER
 1- yarn add vite
